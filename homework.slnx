@@ -1,11 +1,11 @@
-<Solution>
+﻿<Solution>
   <Configurations>
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Folder Name="/作业/" />
-  <Folder Name="/作业/01-30/">
-    <Project Path="D:/1-Sure/Code/homework/1/1.vcxproj" Id="abaebed2-a459-44ff-8020-c77d2b57dfec" />
+  <Folder Name="/浣滀笟/" />
+  <Folder Name="/浣滀笟/01-30/">
+    <Project Path="D:/1-Sure/Code/homework/01/1.vcxproj" Id="abaebed2-a459-44ff-8020-c77d2b57dfec" />
     <Project Path="D:/1-Sure/Code/homework/10/10.vcxproj" Id="cac273d2-97f0-4222-82da-39492f9d94fc" />
     <Project Path="D:/1-Sure/Code/homework/11/11.vcxproj" Id="450f182c-40c7-44fb-9031-2705364f015c" />
     <Project Path="D:/1-Sure/Code/homework/12/12.vcxproj" Id="17c84b94-8e2f-4a8f-a221-5ceea12aede2" />
@@ -16,7 +16,7 @@
     <Project Path="D:/1-Sure/Code/homework/17/17.vcxproj" Id="3a9238c4-c390-4998-aaf8-679ea3c142f9" />
     <Project Path="D:/1-Sure/Code/homework/18/18.vcxproj" Id="6aa21001-071a-4fd3-9f8a-060c778c936f" />
     <Project Path="D:/1-Sure/Code/homework/19/19.vcxproj" Id="c882cb1a-5a10-480a-a727-3176e671553d" />
-    <Project Path="D:/1-Sure/Code/homework/2/2.vcxproj" Id="72a9696f-20db-4220-b204-2fe2c89745ab" />
+    <Project Path="D:/1-Sure/Code/homework/02/2.vcxproj" Id="72a9696f-20db-4220-b204-2fe2c89745ab" />
     <Project Path="D:/1-Sure/Code/homework/20/20.vcxproj" Id="b343adf3-dbf8-49db-9ec7-1e55fe74656d" />
     <Project Path="D:/1-Sure/Code/homework/21/21.vcxproj" Id="66ed00aa-b5c4-4576-8552-91742ee7d16c" />
     <Project Path="D:/1-Sure/Code/homework/22/22.vcxproj" Id="eefca6ed-52e0-4de9-af2b-472bd1e5ce2a" />
@@ -27,16 +27,16 @@
     <Project Path="D:/1-Sure/Code/homework/27/27.vcxproj" Id="cf15dbec-fd61-4f9c-b025-c3f99540b892" />
     <Project Path="D:/1-Sure/Code/homework/28/28.vcxproj" Id="faf4e149-7efb-4e37-8386-8de342022506" />
     <Project Path="D:/1-Sure/Code/homework/29/29.vcxproj" Id="8ca1a1ed-61da-48fd-91c5-7e85625306af" />
-    <Project Path="D:/1-Sure/Code/homework/3/3.vcxproj" Id="eb394433-4a79-4586-9e01-38b1a45ef73e" />
+    <Project Path="D:/1-Sure/Code/homework/03/3.vcxproj" Id="eb394433-4a79-4586-9e01-38b1a45ef73e" />
     <Project Path="D:/1-Sure/Code/homework/30/30.vcxproj" Id="8cfe08c4-f0cc-4776-bb9c-655bfb0f0e69" />
-    <Project Path="D:/1-Sure/Code/homework/4/4.vcxproj" Id="b6d3d0c6-7aac-4753-8594-173b35d7b258" />
-    <Project Path="D:/1-Sure/Code/homework/5/5.vcxproj" Id="e6276f1d-a4a3-472c-a5b2-3a72e3d0526f" />
-    <Project Path="D:/1-Sure/Code/homework/6/6.vcxproj" Id="9220390e-5612-4ce3-a49f-00f224b8459c" />
-    <Project Path="D:/1-Sure/Code/homework/7/7.vcxproj" Id="1ef636c2-d99c-4598-8319-bae4a9874db2" />
-    <Project Path="D:/1-Sure/Code/homework/8/8.vcxproj" Id="302b51b6-396c-42e4-829c-8a9b0c9149a1" />
-    <Project Path="D:/1-Sure/Code/homework/9/9.vcxproj" Id="0d6a3748-21ef-4c2e-942a-e78b20d44976" />
+    <Project Path="D:/1-Sure/Code/homework/04/4.vcxproj" Id="b6d3d0c6-7aac-4753-8594-173b35d7b258" />
+    <Project Path="D:/1-Sure/Code/homework/05/5.vcxproj" Id="e6276f1d-a4a3-472c-a5b2-3a72e3d0526f" />
+    <Project Path="D:/1-Sure/Code/homework/06/6.vcxproj" Id="9220390e-5612-4ce3-a49f-00f224b8459c" />
+    <Project Path="D:/1-Sure/Code/homework/07/7.vcxproj" Id="1ef636c2-d99c-4598-8319-bae4a9874db2" />
+    <Project Path="D:/1-Sure/Code/homework/08/8.vcxproj" Id="302b51b6-396c-42e4-829c-8a9b0c9149a1" />
+    <Project Path="D:/1-Sure/Code/homework/09/9.vcxproj" Id="0d6a3748-21ef-4c2e-942a-e78b20d44976" />
   </Folder>
-  <Folder Name="/作业/31-60/">
+  <Folder Name="/浣滀笟/31-60/">
     <Project Path="D:/1-Sure/Code/homework/31/31.vcxproj" Id="70401ea3-c974-4ff2-b29d-9d5e5b0cb048" />
     <Project Path="D:/1-Sure/Code/homework/32/32.vcxproj" Id="83549853-5374-4111-8c7a-958c00561aeb" />
     <Project Path="D:/1-Sure/Code/homework/33/33.vcxproj" Id="e0b7b4cb-a985-4c60-be24-bac98ed76be6" />
@@ -68,7 +68,11 @@
     <Project Path="D:/1-Sure/Code/homework/59/59.vcxproj" Id="2be5975a-f1c6-4d2d-943d-2255b6243846" />
     <Project Path="D:/1-Sure/Code/homework/60/60.vcxproj" Id="368a324d-59bd-4873-a033-115787c16cdb" />
   </Folder>
-  <Folder Name="/算法/">
+  <Folder Name="/绠楁硶/">
     <Project Path="D:/1-Sure/Code/homework/LC 27 Remove Element/LC 27 Remove Element.vcxproj" Id="0b1db8fb-f5df-465a-967b-1c92f3f9cc26" />
   </Folder>
+  <Folder Name="/瑙ｅ喅鏂规椤?">
+    <File Path=".gitignore" />
+  </Folder>
 </Solution>
+
