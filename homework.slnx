@@ -3,8 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Folder Name="/浣滀笟/" />
-  <Folder Name="/浣滀笟/01-30/">
+  <Folder Name="/Homework/" />
+  <Folder Name="/Homework/01-30/" >
     <Project Path="D:/1-Sure/Code/homework/01/1.vcxproj" Id="abaebed2-a459-44ff-8020-c77d2b57dfec" />
     <Project Path="D:/1-Sure/Code/homework/10/10.vcxproj" Id="cac273d2-97f0-4222-82da-39492f9d94fc" />
     <Project Path="D:/1-Sure/Code/homework/11/11.vcxproj" Id="450f182c-40c7-44fb-9031-2705364f015c" />
@@ -36,7 +36,7 @@
     <Project Path="D:/1-Sure/Code/homework/08/8.vcxproj" Id="302b51b6-396c-42e4-829c-8a9b0c9149a1" />
     <Project Path="D:/1-Sure/Code/homework/09/9.vcxproj" Id="0d6a3748-21ef-4c2e-942a-e78b20d44976" />
   </Folder>
-  <Folder Name="/浣滀笟/31-60/">
+  <Folder Name="/Homework/31-60/" >
     <Project Path="D:/1-Sure/Code/homework/31/31.vcxproj" Id="70401ea3-c974-4ff2-b29d-9d5e5b0cb048" />
     <Project Path="D:/1-Sure/Code/homework/32/32.vcxproj" Id="83549853-5374-4111-8c7a-958c00561aeb" />
     <Project Path="D:/1-Sure/Code/homework/33/33.vcxproj" Id="e0b7b4cb-a985-4c60-be24-bac98ed76be6" />
@@ -68,10 +68,10 @@
     <Project Path="D:/1-Sure/Code/homework/59/59.vcxproj" Id="2be5975a-f1c6-4d2d-943d-2255b6243846" />
     <Project Path="D:/1-Sure/Code/homework/60/60.vcxproj" Id="368a324d-59bd-4873-a033-115787c16cdb" />
   </Folder>
-  <Folder Name="/绠楁硶/">
+  <Folder Name="/leetcode/" >
     <Project Path="D:/1-Sure/Code/homework/LC 27 Remove Element/LC 27 Remove Element.vcxproj" Id="0b1db8fb-f5df-465a-967b-1c92f3f9cc26" />
   </Folder>
-  <Folder Name="/瑙ｅ喅鏂规椤?">
+  <Folder Name="/Solution Items/" >
     <File Path=".gitignore" />
   </Folder>
 </Solution>
